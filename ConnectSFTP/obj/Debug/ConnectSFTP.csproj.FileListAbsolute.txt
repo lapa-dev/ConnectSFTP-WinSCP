@@ -1,0 +1,9 @@
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\bin\Debug\ConnectSFTP.exe.config
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\bin\Debug\ConnectSFTP.exe
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\bin\Debug\ConnectSFTP.pdb
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\bin\Debug\WinSCPnet.dll
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\obj\Debug\ConnectSFTP.csproj.AssemblyReference.cache
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\obj\Debug\ConnectSFTP.csproj.CoreCompileInputs.cache
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\obj\Debug\ConnectSFTP.csproj.CopyComplete
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\obj\Debug\ConnectSFTP.exe
+F:\Repository\.net\ConnectSFTP\ConnectSFTP\obj\Debug\ConnectSFTP.pdb
